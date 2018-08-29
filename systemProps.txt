@@ -1,0 +1,6 @@
+releaseNotes=https://emaratech.atlassian.net/browse/TDVOP-15878
+vision=2.02.000.00-B20
+iqc=1.55.000.00-B02
+MailTo=devops.scm@emaratech.ae
+NexusURL=http://dockerregistry.emaratech.ae:8081/repository/maven-releases/upload
+
